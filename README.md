@@ -1,4 +1,4 @@
-![](thumbnail.png)
+![](thumb.png)
 
 # Memoteca
 
