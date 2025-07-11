@@ -17,18 +17,18 @@ Memoteca é um aplicativo organizador de pensamentos e frases que permite cadast
 ## Funcionalidades do projeto
 
 1. Cadastro de pensamentos: permite adicionar novos pensamentos à lista, inserindo informações como conteúdo e autoria;
-2. Listagem de pensamentos: Exibe os pensamentos cadastrados, permitindo visualizar o texto e a autoria;
-3. Edição de pensamentos: Permite editar pensamentos existentes, atualizando as informações conforme necessário;
-4. Exclusão de pensamentos: Permite remover pensamentos da lista.
+2. Listagem de pensamentos: exibe os pensamentos cadastrados, permitindo visualizar o texto e a autoria;
+3. Edição de pensamentos: permite editar pensamentos existentes, atualizando as informações conforme necessário;
+4. Exclusão de pensamentos: permite remover pensamentos da lista.
 
 ## Técnicas e Tecnologias
 
-`JavaScript`: Linguagem de programação utilizada para desenvolver a lógica do aplicativo.
-`Fetch API`: Utilizada para realizar requisições HTTP para comunicação com o servidor.
-`Axios`: Biblioteca usada para facilitar e simplificar as requisições HTTP.
-`Node.js`: Plataforma utilizada para executar o ambiente de desenvolvimento.
-`JSON Server`: Utilizado para simular um backend e facilitar o desenvolvimento e teste das operações CRUD.
-`CSS`: Utilizado para estilização da interface do aplicativo.
+`JavaScript`: linguagem de programação utilizada para desenvolver a lógica do aplicativo;
+`Fetch API`: utilizada para realizar requisições HTTP para comunicação com o servidor;
+`Axios`: biblioteca usada para facilitar e simplificar as requisições HTTP;
+`Node.js`: plataforma utilizada para executar o ambiente de desenvolvimento;
+`JSON Server`: utilizado para simular um backend e facilitar o desenvolvimento e teste das operações CRUD;
+`CSS`: utilizado para estilização da interface do aplicativo.
 
 ## Como Abrir e Rodar o Projeto
 
