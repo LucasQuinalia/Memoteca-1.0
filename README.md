@@ -23,12 +23,12 @@ Memoteca é um aplicativo organizador de pensamentos e frases que permite cadast
 
 ## Técnicas e Tecnologias
 
-`JavaScript`: linguagem de programação utilizada para desenvolver a lógica do aplicativo;
-`Fetch API`: utilizada para realizar requisições HTTP para comunicação com o servidor;
-`Axios`: biblioteca usada para facilitar e simplificar as requisições HTTP;
-`Node.js`: plataforma utilizada para executar o ambiente de desenvolvimento;
-`JSON Server`: utilizado para simular um backend e facilitar o desenvolvimento e teste das operações CRUD;
-`CSS`: utilizado para estilização da interface do aplicativo.
+- `JavaScript`: linguagem de programação utilizada para desenvolver a lógica do aplicativo;
+- `Fetch API`: utilizada para realizar requisições HTTP para comunicação com o servidor;
+- `Axios`: biblioteca usada para facilitar e simplificar as requisições HTTP;
+- `Node.js`: plataforma utilizada para executar o ambiente de desenvolvimento;
+- `JSON Server`: utilizado para simular um backend e facilitar o desenvolvimento e teste das operações CRUD;
+- `CSS`: utilizado para estilização da interface do aplicativo.
 
 ## Como Abrir e Rodar o Projeto
 
